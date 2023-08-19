@@ -11,3 +11,11 @@ It solves problems such as,
 - This system manages the data efficiently by using Firebase as a backendless NoSQL database where I have implemented Authentication, Firestore, FCM, Storage, etc.
 
 I used this application for the SSIP program in Gujarat which stands for Student Startup and Innovation Policy. Where I made this application with React Native and Firebase technology.
+
+# Where to find code
+
+There are two branches.
+1. digipass
+2. scanner
+
+You will find the code for DigiPass in the "digipass" branch and the conductor app code in the "scanner" branch. These are two different apps for different audiences.
